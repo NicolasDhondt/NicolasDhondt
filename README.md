@@ -5,9 +5,6 @@
 My native language is **french**.  
 I am currently improving my development skills.
 
-<html>
-  <span style="color:blue">some *blue* text</span>
-</html>
 ### Skills and experience 
 
 * 💥 **PHP** (with Laravel)
