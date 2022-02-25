@@ -7,14 +7,6 @@ I am currently improving my development skills.
 
 ### Skills and experience 
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
 * 💥 **PHP** (with Laravel)
 * ⚡ **JAVA** (with Kotlin and Spring)
 * 🐍 **PYTHON** (with Django)
