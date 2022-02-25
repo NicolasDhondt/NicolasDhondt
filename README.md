@@ -1,16 +1,20 @@
-### Hi there 👋
+# **Nicolas Dhondt**
 
-<!--
-**NicolasDhondt/NicolasDhondt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *I'm a 3rd year student in a Brussels school, ESI from HE2B*
 
-Here are some ideas to get you started:
+My native language is french. I am curious by nature and persevering. 
+I am currently improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Skills and experience 
+
+* 💥 **PHP** (with Laravel)
+* ⚡ **JAVA** (with Kotlin and Spring)
+* 🐍 **PYTHON** (with Django)
+* 💻 **HTML** / **CSS** (with bootstrap) / **JS** (with jQuery)
+
+- 🔭 I’m currently working on two ideas of new python projects 
+- 🌱 I’m currently learning PYTHON with Django 
+- 💬 Ask me about anything you want 
+- 📫 How to reach me : nicolas.dhondt.99@gmail.com 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NicolasDhondt)  
