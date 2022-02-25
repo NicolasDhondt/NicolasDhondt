@@ -2,8 +2,8 @@
 
 ### *I'm a 3rd year student in a Brussels school, ESI from HE2B*
 
-My native language is french. I am curious by nature and persevering. 
-I am currently improving my development skills.
+My native language is french.  
+I am curious by nature and persevering. I am currently improving my development skills.
 
 ###Skills and experience 
 
