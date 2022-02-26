@@ -12,7 +12,7 @@ I am currently improving my development skills.
 * 🐍 **PYTHON** (with Django)
 * 💻 **HTML** / **CSS** (with bootstrap) / **JS** (with jQuery)
 
-🔭 I’m currently working on two ideas of new python projects  
+🔭 I’m currently working on two ideas of new python projects. Actually DevelopersTasks  
 🌱 I’m currently learning PYTHON with Django  
 💬 Ask me about anything you want  
 📫 How to contact me : nicolas.dhondt.99@gmail.com  
