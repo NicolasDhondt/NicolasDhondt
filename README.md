@@ -12,8 +12,8 @@ I am currently improving my development skills.
 * 🐍 **PYTHON** (with Django)
 * 💻 **HTML** / **CSS** (with bootstrap) / **JS** (with jQuery)
 
-🔭 I’m currently working on ...  
-🌱 I’m currently learning ...  
+🔭 I’m currently working on a new android app !  
+🌱 I’m currently learning android developement  
 💬 Ask me about anything you want  
 📫 How to contact me : nicolas.dhondt.99@gmail.com  
 
