@@ -14,7 +14,7 @@ I am currently improving my development skills.
 * 🐍 **PYTHON** (with Django)
 * 💻 **HTML** / **CSS** (with bootstrap, font-awesome) / **JS** (with jQuery)
 
-🔭 I’m currently working on improving my C# and Angular skills !    
+🔭 I’m currently working on improving my C# (.NET) and Angular skills !    
 💬 Ask me about anything you want  
 📫 How to contact me : nicolas.dhondt.99@gmail.com  
 
