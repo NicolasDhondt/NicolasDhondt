@@ -8,7 +8,7 @@ I am currently improving my development skills.
 ### Skills and experience 
 
 * 🔥 **C#** (with ASP.NET Core)
-* 🌟 **Angular** (with ngx-bootstrap)
+* 🌟 **Angular** (with ngx-bootstrap, material, ...)
 * 💥 **PHP** (with Laravel)
 * ⚡ **JAVA** (with Kotlin and Spring)
 * 🐍 **PYTHON** (with Django)
