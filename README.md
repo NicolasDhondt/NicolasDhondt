@@ -12,8 +12,8 @@ My native language is **french** but I can speak English easly.
 
 * 🔥 **C#** (with ASP.NET Core)
 * 🌟 **Angular** (with ngx-bootstrap, material, ...)
-* 💥 **PHP** (with Laravel)
 * ⚡ **JAVA** (with Kotlin and Spring)
+* 💥 **PHP** (with Laravel)
 * 🐍 **PYTHON** (with Django)
 * 💻 **HTML** / **CSS** (with bootstrap, font-awesome) / **JS** (with jQuery)
 
