@@ -3,8 +3,10 @@
 ### *I'm a young Full Stack developer, recently graduated with distinction from the HE2B, ESI*
 
 I am a hard worker who is persevering, perfectionist and curious. I am constantly looking for ways to improve myself from a personal and professional point of view.  
-It's been more than 3 years now that I'm improving myself in the different fields of computer science. And more precisely, concerning the aspect of project management, analysis, application development and web development!
-My native language is **french**.  
+
+It's been more than 3 years now that I'm improving myself in the different fields of computer science. And more precisely, concerning the aspect of project management, analysis, application development and web development!  
+
+My native language is **french** but I can speak English easly.  
 
 ### Skills and experience 
 
