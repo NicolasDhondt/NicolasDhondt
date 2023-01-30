@@ -22,4 +22,5 @@ My native language is **french** but I can speak English easly.
 📫 How to contact me : nicolas.dhondt.99@gmail.com  
 
   
-You can click here to see my LinkedIn profile! [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](linkedin.com/in/dhondtnicolas)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](linkedin.com/in/dhondtnicolas)
+You can click here to see my LinkedIn profile!
