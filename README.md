@@ -8,7 +8,7 @@ It's been more than 3 years now that I'm improving myself in the different field
 
 My native language is **french** but I can speak English easly.  
 
-### Skills and experience 
+### Skills
 
 * 🔥 **C#** (with ASP.NET Core)
 * 🌟 **Angular** (with ngx-bootstrap, material, ...)
@@ -23,4 +23,4 @@ My native language is **french** but I can speak English easly.
 
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](linkedin.com/in/dhondtnicolas)
-You can click here to see my LinkedIn profile!
+You can click here to see my LinkedIn profile! My experience is also detailed.
