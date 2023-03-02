@@ -6,7 +6,7 @@ I am a hard worker who is persevering, perfectionist and curious. I am constantl
 
 It's been more than 3 years now that I'm improving myself in the different fields of computer science. And more precisely, concerning the aspect of project management, analysis, application development and web development!  
 
-My native language is **french** but I can speak English easly.  
+My native language is **french** but I can speak English easily.  
 
 ### Skills
 
