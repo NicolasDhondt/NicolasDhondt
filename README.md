@@ -1,6 +1,6 @@
 # **Nicolas Dhondt**
 
-### *I'm a young Full Stack developer, graduated with distinction from the HE2B, ESI*
+### *I'm a Full Stack developer, graduated with distinction from the HE2B, ESI*
 
 I am a hard worker who is persevering, perfectionist and curious. I am constantly looking for ways to improve myself from a personal and professional point of view.  
 
