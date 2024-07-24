@@ -11,7 +11,7 @@ My native language is **french** but I can speak English easily.
 ### Skills
 
 * 🔥 **C#** (with ASP.NET Core)
-* 🌟 **Angular** (with ngx-bootstrap, material, ...)
+* 🌟 **Angular**
 * ⚡ **JAVA** (with Kotlin and Spring)
 * 💥 **PHP** (with Laravel)
 * 🐍 **PYTHON** (with Django)
