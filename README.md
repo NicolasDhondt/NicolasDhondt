@@ -17,7 +17,3 @@ Entity Framework Core, Clean Architecture, Azure Functions, WebSocket
 * 🌟 **Angular**
 
 TypeScript (RxJS), HTML, CSS, Cypress
-
-🔭 I’m currently working on C# (.NET) and Angular who are my favorite language!    
-
-📫 How to contact me : nicolas.dhondt.99@gmail.com  
