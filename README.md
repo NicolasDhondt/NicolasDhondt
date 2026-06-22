@@ -10,8 +10,13 @@ Independent, proactive, and persistent, I take ownership of tasks, manage priori
 
 ### Main Skills
 
-* 🔥 **ASP.NET Core / C#**
-* 🌟 **Angular (TypeScript, HTML, CSS)**
+* 🔥 **ASP.NET Core / C# (Web API)**
+
+Entity Framework Core, Clean Architecture, Azure Functions, WebSocket
+
+* 🌟 **Angular**
+
+TypeScript (RxJS), HTML, CSS, Cypress
 
 🔭 I’m currently working on C# (.NET) and Angular who are my favorite language!    
 
